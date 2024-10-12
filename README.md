@@ -1,1 +1,1 @@
-# company_task
+This is a simple Product Management System built using the C programming language. The system allows users to manage products, including both built-in products (like Sugar, Tea, and Milk) and user-defined products that can be added dynamically.
